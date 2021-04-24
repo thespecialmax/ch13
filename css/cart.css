@@ -1,0 +1,158 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+.maxlength-notification {
+    border:3px solid #d55b5b;
+    background-color: #ffcdcd;
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: ;
+}
+.maxlength-status {
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: ;
+}
+
+.cart .productQuantityField {
+	text-align: center;
+    width: 40px;
+}
+
+#shipping-button{
+	margin-top: 15px;
+}
+
+.iluria-cart-free-shipping-description {
+    color: rgb(255, 255, 255);
+	font-family: Source Sans Pro;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: ;
+    padding: 0px 0px;
+    padding-top: 10px;
+    line-height: 15px;        
+}
+
+.iluria-cart-shipping-description {
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: ;
+    padding-top: 5px;
+    text-align: right;
+    line-height: 15px;
+}
+
+.iluria-cart-invisible {
+    display: none;
+    visibility: hidden;
+}
+
+.iluria-cart-visible {
+    display: block;
+    visibility: visible;
+}
+
+#shippingType { color: black !important; }
+.linhaPontilhada { border-bottom: 1px #ccc dashed; }
+
+.shippingOptions {
+    font-size: 11px;
+    font-weight: normal;
+}
+.instrucoesSobreFrete {
+    border: 1px #ccc dashed;
+    background-color: #F5F6F1;
+    font-family: 'Trebuchet MS', Verdana, Tahoma, Arial, sans-serif;    
+    font-size: 12px;
+    line-height: 20px;
+    text-align: left;
+}
+.imageBorder {
+    border: rgb(218, 218, 218) 1px solid;
+    padding: 2px;
+}
+
+.iluria-cart-address {
+    line-height: 21px;
+    margin-top: 10px;
+    padding: 10px;
+    height: 330px;
+    overflow: hidden;
+}
+
+.iluria-cart-address input, .iluria-cart-client-info input { 
+    padding: 8px;
+    margin: 1px;
+    outline: medium none;
+    resize: none;
+}
+
+.iluria-cart-client-info {
+    line-height: 21px;
+    margin-top: 10px;
+    padding: 3px;
+    overflow: hidden;
+}
+
+.iluria-cart-client-info label {
+    cursor: pointer;
+    cursor: hand;
+}
+
+.iluria-cart-payment-info {
+    line-height: 21px;
+    margin-left: 0px;
+    margin-top: 0px;
+    min-height: 200px;
+    line-height: 21px;
+    margin-top: 10px;
+    padding: 3px;
+    overflow: hidden;
+    border: 3px #EAEAEA solid;
+}
+
+.iluria-cart-payment-description {
+    font-size: 11px;
+    font-family: Arial;
+    color: #999;
+}
+
+.iluria-cart-payment-option {
+    width: 164px;
+    margin: auto auto auto auto;
+    float:left;
+    height: 54px;
+    padding-left: 10px;
+    cursor: pointer;
+}
+
+.cart-container { 
+	margin-bottom: 50px;
+	width: 100%; 
+}
+.iluria-cart-dotted-line { border-bottom: 1px #ccc dashed; }
+.cart .productQuantityField, #comments, #zip, #couponCode { padding: 3px 5px; }
+#zip { text-align: center; }
+#comments { resize: none; }
+.cart-item-unit-price { min-width: 125px; }
+.cart-item-total-price { min-width: 110px; }
+.cart-cupom-text { margin-top: 5px; display: block; }
+.cart-comments-text { margin: 0px; padding: 0px; }
